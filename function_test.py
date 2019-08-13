@@ -1,6 +1,6 @@
 import turtle
 turtle.color('red')
-turtle.speed(100)
+turtle.speed(500)
 
 def draw_square(side_length):
     for i in range(4):
